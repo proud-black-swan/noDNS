@@ -16,6 +16,3084 @@ dns:
 
   
 proxies:
+- name: 🇺🇸 US优选IP 001
+  type: vless
+  server: "[2a06:98c1:56:5372:fcb5:1944:aec2:9c97]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 002
+  type: vless
+  server: "[2a06:98c1:56:30d4:f72b:c97b:1ae7:39eb]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 003
+  type: vless
+  server: "[2a06:98c1:56:2301:eacb:5dbf:ecc3:3019]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 004
+  type: vless
+  server: "[2a06:98c1:53:6271:130c:8ef1:aa4:d387]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 005
+  type: vless
+  server: "[2a06:98c1:53:2041:17d1:1bce:56d7:d0f5]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 006
+  type: vless
+  server: "[2a06:98c1:52:d556:a1a1:9bd5:31f4:1684]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 007
+  type: vless
+  server: "[2a06:98c1:52:9a30:197f:cd05:3de8:5196]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 008
+  type: vless
+  server: "[2a06:98c1:52:3e1c:2fd0:47e7:68ac:19f0]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 009
+  type: vless
+  server: "[2a06:98c1:51:8c39:2f74:83c9:be74:d725]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 010
+  type: vless
+  server: "[2a06:98c1:51:2ba8:2a2d:4a69:8de3:b1e1]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 011
+  type: vless
+  server: "[2a06:98c1:51:1147:4a3e:94f9:c96d:8933]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 012
+  type: vless
+  server: "[2a06:98c1:50:8754:ed49:f00d:a605:6122]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 013
+  type: vless
+  server: "[2a06:98c1:50:7360:65dc:aed3:93f7:ccc7]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 014
+  type: vless
+  server: "[2a06:98c1:4f:db12:e672:71b3:cd67:cf05]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 015
+  type: vless
+  server: "[2a06:98c1:4f:c6c9:db8d:e83e:e1d2:3447]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 016
+  type: vless
+  server: "[2a06:98c1:4e:c5e1:aad4:4d6b:8797:8c64]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 017
+  type: vless
+  server: "[2a06:98c1:4e:9225:5b8b:9776:cf20:a280]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 018
+  type: vless
+  server: "[2a06:98c1:4d:e299:ff07:15b3:b6cb:3838]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 019
+  type: vless
+  server: "[2a06:98c1:4d:4f89:fc78:442e:5f94:ec58]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 020
+  type: vless
+  server: "[2a06:98c1:4d:4c6d:a2b2:de24:7f15:b569]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 021
+  type: vless
+  server: "[2a06:98c1:4c:bd41:4ee2:fa7b:8e62:ea87]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 022
+  type: vless
+  server: "[2a06:98c1:4c:9e41:9655:5031:c223:2cf3]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 023
+  type: vless
+  server: "[2a06:98c1:4c:28a1:58c4:8a80:f930:4eb7]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 024
+  type: vless
+  server: "[2a06:98c1:4b:bcd5:8851:50cf:c3aa:c49b]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 025
+  type: vless
+  server: "[2a06:98c1:4b:26af:65c6:36bc:f282:6ab1]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 026
+  type: vless
+  server: "[2a06:98c1:4a:dc40:b94c:646e:f1cf:3d59]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 027
+  type: vless
+  server: "[2a06:98c1:4a:93a:dc0a:754a:cbdf:5d00]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 028
+  type: vless
+  server: "[2a06:98c1:49:884a:169b:1b20:cc7f:fd12]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 029
+  type: vless
+  server: "[2a06:98c1:49:46ad:8c2a:3374:48e8:9f35]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 030
+  type: vless
+  server: "[2a06:98c1:49:123c:145e:e1f9:dad1:22f8]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 031
+  type: vless
+  server: "[2a06:98c1:48:e54f:4ab2:e6d3:26d4:a5e4]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 032
+  type: vless
+  server: "[2a06:98c1:48:da1c:b056:f402:38e7:2c0d]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 033
+  type: vless
+  server: "[2a06:98c1:47:8ef9:37a2:646e:459a:a7c1]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 034
+  type: vless
+  server: "[2a06:98c1:47:45fe:9c84:5f41:49d9:6350]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 035
+  type: vless
+  server: "[2a06:98c1:46:8fb3:e1fc:69c2:54b2:9a2b]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 036
+  type: vless
+  server: "[2a06:98c1:46:5685:c946:3015:8968:1145]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 037
+  type: vless
+  server: "[2a06:98c1:45:e3f9:2c40:413a:f5ae:f245]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 038
+  type: vless
+  server: "[2a06:98c1:45:9081:ed4c:31df:9b72:c927]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 039
+  type: vless
+  server: "[2a06:98c1:44:aa5b:3238:f091:4c0e:5d2f]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 040
+  type: vless
+  server: "[2a06:98c1:44:73d0:c69b:cfc3:3ec5:6db3]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 041
+  type: vless
+  server: "[2a06:98c1:43:f991:85a0:9d31:29e2:ea7e]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 042
+  type: vless
+  server: "[2a06:98c1:43:74f6:9df0:4535:1e1c:8f93]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 043
+  type: vless
+  server: "[2a06:98c1:42:e41e:80dc:2117:e89e:5ef4]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 044
+  type: vless
+  server: "[2a06:98c1:42:7d26:bc20:51fa:c7c8:f967]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 045
+  type: vless
+  server: "[2a06:98c1:41:c65c:b100:4c60:fbef:bdb1]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 046
+  type: vless
+  server: "[2a06:98c1:41:b9e:67fe:788:2873:3186]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 047
+  type: vless
+  server: "[2a06:98c1:40:ec90:aa26:748d:71a0:fe67]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 048
+  type: vless
+  server: "[2a06:98c1:40:895e:ce51:ea16:8ba3:a34d]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 049
+  type: vless
+  server: "[2a06:98c1:3f:e23f:47cf:6fe1:f5a5:95e0]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 050
+  type: vless
+  server: "[2a06:98c1:3f:7e96:ab9d:451c:92c1:c3fc]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 051
+  type: vless
+  server: "[2a06:98c1:3e:f3b0:23d4:4567:2f1c:e5b4]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 052
+  type: vless
+  server: "[2a06:98c1:3e:912a:71be:b3f2:faae:b935]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 053
+  type: vless
+  server: "[2a06:98c1:3d:b0e0:5723:e4a8:db14:285a]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 054
+  type: vless
+  server: "[2a06:98c1:3d:962e:9cb0:773a:cf55:c1ee]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 055
+  type: vless
+  server: "[2a06:98c1:3c:b365:e581:40c7:f6ee:f0cd]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 056
+  type: vless
+  server: "[2a06:98c1:3c:74d0:a52a:6ae5:fb31:18bb]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 057
+  type: vless
+  server: "[2a06:98c1:3b:aa14:680b:6c85:8102:bf6b]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 058
+  type: vless
+  server: "[2a06:98c1:3b:37ae:f0ed:af7f:ddc4:baac]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 059
+  type: vless
+  server: "[2a06:98c1:3a:fb9d:e353:918f:5bf1:4f0f]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 060
+  type: vless
+  server: "[2a06:98c1:3a:9eac:e3f9:8a45:5cf0:3e1b]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 061
+  type: vless
+  server: "[2a06:98c1:39:f2d6:46db:8da7:77e6:38da]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 062
+  type: vless
+  server: "[2a06:98c1:39:be12:4e91:3f3a:fdc0:29e9]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 063
+  type: vless
+  server: "[2a06:98c1:38:d65a:9a1d:2fc8:740b:9b36]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 064
+  type: vless
+  server: "[2a06:98c1:38:4a5a:4d18:cfbe:7f92:9e85]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 065
+  type: vless
+  server: "[2a06:98c1:37:df45:e0ab:41e4:ecde:5482]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 066
+  type: vless
+  server: "[2a06:98c1:37:a3a3:1681:76d6:4597:54e3]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 067
+  type: vless
+  server: "[2a06:98c1:36:fc96:8a46:cfa0:3ac9:1816]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 068
+  type: vless
+  server: "[2a06:98c1:36:bc04:f62a:2d35:e197:4e6a]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 069
+  type: vless
+  server: "[2a06:98c1:35:a08a:bb2:cb25:6c1b:3c6c]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 070
+  type: vless
+  server: "[2a06:98c1:35:4218:2564:1c8e:a936:8fa0]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 071
+  type: vless
+  server: "[2a06:98c1:34:f1b5:3ed1:8f4c:2ca1:772c]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 072
+  type: vless
+  server: "[2a06:98c1:34:681f:5455:cfb8:b731:b9dc]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 073
+  type: vless
+  server: "[2a06:98c1:33:fc18:8622:3543:3d5a:5ea3]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 074
+  type: vless
+  server: "[2a06:98c1:33:79e8:9d58:81d0:9a8a:a97a]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 075
+  type: vless
+  server: "[2a06:98c1:32:e27c:60e4:a3ce:19ec:3b5e]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 076
+  type: vless
+  server: "[2a06:98c1:32:7a5d:b0c1:6224:b3d7:8819]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 077
+  type: vless
+  server: "[2a06:98c1:31:ee0f:e20a:f027:c71b:13de]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 078
+  type: vless
+  server: "[2a06:98c1:31:70ff:2a64:368:15ef:aef0]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 079
+  type: vless
+  server: "[2a06:98c1:30:df43:2c59:1770:2b34:5e7a]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 080
+  type: vless
+  server: "[2a06:98c1:30:6b22:c615:2c4d:8338:61a0]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 081
+  type: vless
+  server: "[2a06:98c1:2f:f35c:ec9d:89a4:4fda:b7b3]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 082
+  type: vless
+  server: "[2a06:98c1:2f:9ff0:5c97:59db:a983:11e5]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 083
+  type: vless
+  server: "[2a06:98c1:2e:fe3d:1434:548f:448b:4ef1]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 084
+  type: vless
+  server: "[2a06:98c1:2e:66e2:fa94:e9b7:f548:68da]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 085
+  type: vless
+  server: "[2a06:98c1:2d:82df:a8d1:6276:1c3f:3736]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 086
+  type: vless
+  server: "[2a06:98c1:2d:1c91:cd0b:b68c:5d0a:3252]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 087
+  type: vless
+  server: "[2a06:98c1:2c:ea7f:c851:2814:4ad7:6b2f]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 088
+  type: vless
+  server: "[2a06:98c1:2c:bc5f:8cf9:17ce:1ac5:c9f7]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 089
+  type: vless
+  server: "[2a06:98c1:2b:efac:cc72:282:7c68:f1d6]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 090
+  type: vless
+  server: "[2a06:98c1:2b:7b65:832b:791c:f10:746f]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+- name: 🇺🇸 US优选IP 091
+  type: vless
+  server: "[2a06:98c1:2a:e19a:38f4:bf93:52d8:e4f1]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 092
+  type: vless
+  server: "[2a06:98c1:2a:8b10:a39a:1a2f:9aa1:6a87]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 093
+  type: vless
+  server: "[2a06:98c1:29:df38:f039:13f9:67e9:f963]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 094
+  type: vless
+  server: "[2a06:98c1:29:93d2:6600:1186:abfb:c81b]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 095
+  type: vless
+  server: "[2a06:98c1:28:7b4b:dbbb:5d73:9928:9639]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 096
+  type: vless
+  server: "[2a06:98c1:28:255d:828b:5c1d:4f49:e77b]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 097
+  type: vless
+  server: "[2a06:98c1:27:bc54:5e21:ea54:bd3e:3758]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 098
+  type: vless
+  server: "[2a06:98c1:27:53bb:e34b:f36f:20df:5e5b]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 099
+  type: vless
+  server: "[2a06:98c1:26:ccae:8b62:6ff3:c09e:7c9a]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 100
+  type: vless
+  server: "[2a06:98c1:26:48d3:3127:87f0:71f6:b19b]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 101
+  type: vless
+  server: "[2a06:98c1:25:f30c:4ba9:cd67:89ab:7d10]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 102
+  type: vless
+  server: "[2a06:98c1:25:a612:8a38:2984:8e7e:1039]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 103
+  type: vless
+  server: "[2a06:98c1:24:f0ab:65cb:3b40:7f9b:eaa1]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 104
+  type: vless
+  server: "[2a06:98c1:24:880d:124f:5583:90b7:bc6a]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 105
+  type: vless
+  server: "[2a06:98c1:23:ce49:4b0b:37a2:b2d2:1a15]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 106
+  type: vless
+  server: "[2a06:98c1:23:5143:b6b8:42f3:66fd:fcc0]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 107
+  type: vless
+  server: "[2a06:98c1:22:e097:7a76:c814:f669:5802]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 108
+  type: vless
+  server: "[2a06:98c1:22:4dd9:eddb:7559:42b4:6098]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 109
+  type: vless
+  server: "[2a06:98c1:21:da34:be9e:7360:7543:4b44]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 110
+  type: vless
+  server: "[2a06:98c1:21:410e:2e8a:29e6:2a6d:1c9f]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 111
+  type: vless
+  server: "[2a06:98c1:20:faf4:70d9:e28b:4c9d:bc48]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 112
+  type: vless
+  server: "[2a06:98c1:20:6a2f:4dd6:e41c:35c2:5995]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 113
+  type: vless
+  server: "[2a06:98c1:1f:d2e3:6a71:e1f5:6f0a:1f1d]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 114
+  type: vless
+  server: "[2a06:98c1:1f:5814:b2d9:9ba9:9a7b:2fc4]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 115
+  type: vless
+  server: "[2a06:98c1:1e:edb7:de3:584a:48d7:40ce]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 116
+  type: vless
+  server: "[2a06:98c1:1e:90fb:99d4:ecc7:bb9b:7b37]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 117
+  type: vless
+  server: "[2a06:98c1:1d:f8ae:30d1:e85f:7197:a907]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 118
+  type: vless
+  server: "[2a06:98c1:1d:6ee5:70b7:da04:1b43:15e6]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 119
+  type: vless
+  server: "[2a06:98c1:1c:e71b:712c:42e2:12ad:9fe9]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 120
+  type: vless
+  server: "[2a06:98c1:1c:4ce3:6ad9:221d:ec41:2c15]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 121
+  type: vless
+  server: "[2a06:98c1:1b:f7a9:c229:b46b:3e1c:be8b]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 122
+  type: vless
+  server: "[2a06:98c1:1b:5c0a:1df4:ab6d:76fe:14d7]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 123
+  type: vless
+  server: "[2a06:98c1:1a:fa92:62f6:f3f6:a2a7:c8dc]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 124
+  type: vless
+  server: "[2a06:98c1:1a:53a5:7c4e:2b36:b905:dc25]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 125
+  type: vless
+  server: "[2a06:98c1:19:e4c6:a73c:ea67:7e7d:b99a]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 126
+  type: vless
+  server: "[2a06:98c1:19:5c6e:3306:8f02:7f28:f66a]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 127
+  type: vless
+  server: "[2a06:98c1:18:f1f1:3397:effd:9b52:a2f4]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 128
+  type: vless
+  server: "[2a06:98c1:18:49af:48f8:a16a:f965:4f6c]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 129
+  type: vless
+  server: "[2a06:98c1:17:c812:4e89:bf52:1ace:49c8]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 130
+  type: vless
+  server: "[2a06:98c1:17:374d:4730:6356:56f1:3df0]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 131
+  type: vless
+  server: "[2a06:98c1:16:fc9c:481c:4e73:9e1:3e2f]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 132
+  type: vless
+  server: "[2a06:98c1:16:8a79:aef3:2a2d:cf49:9fb7]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 133
+  type: vless
+  server: "[2a06:98c1:15:ec7d:51a0:8ec:1bbc:a95e]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 134
+  type: vless
+  server: "[2a06:98c1:15:7800:a6cf:647a:f268:16da]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 135
+  type: vless
+  server: "[2a06:98c1:14:e22e:c05d:9e9:7ca9:a16c]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 136
+  type: vless
+  server: "[2a06:98c1:14:6c49:3556:ed46:1a75:1383]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 137
+  type: vless
+  server: "[2a06:98c1:13:dc3e:4c07:6f6:aeab:96f7]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 138
+  type: vless
+  server: "[2a06:98c1:13:75ac:8931:2326:58a3:9209]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 139
+  type: vless
+  server: "[2a06:98c1:12:f78f:9cfd:5dc4:5f87:64e4]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 140
+  type: vless
+  server: "[2a06:98c1:12:7ba2:415e:7ab7:5c3e:6b4a]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 141
+  type: vless
+  server: "[2a06:98c1:11:ed26:b9f3:1636:5183:93e0]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 142
+  type: vless
+  server: "[2a06:98c1:11:5c14:3b9d:8018:3483:cd6a]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 143
+  type: vless
+  server: "[2a06:98c1:10:beb0:302e:95a4:e5a5:16dd]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 144
+  type: vless
+  server: "[2a06:98c1:10:3a4e:2a7a:10f3:7aa:6de6]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 145
+  type: vless
+  server: "[2a06:98c1:f:ea46:a062:ed8a:29e7:25ae]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 146
+  type: vless
+  server: "[2a06:98c1:f:7772:c0f8:a85f:199e:1b1f]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 147
+  type: vless
+  server: "[2a06:98c1:e:ef35:70ff:10b5:b37a:19a1]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 148
+  type: vless
+  server: "[2a06:98c1:e:72b4:9bdb:2bf7:48ff:ce03]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 149
+  type: vless
+  server: "[2a06:98c1:d:b803:5e1c:7954:c943:fdb7]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 150
+  type: vless
+  server: "[2a06:98c1:d:1c42:5c35:bab3:cd21:f70b]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 151
+  type: vless
+  server: "[2a06:98c1:c:f208:a80d:9304:42b6:b691]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 152
+  type: vless
+  server: "[2a06:98c1:c:6d56:dd6:3da2:65f1:e5a2]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 153
+  type: vless
+  server: "[2a06:98c1:b:f7f9:e40b:da4b:aa11:3a88]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 154
+  type: vless
+  server: "[2a06:98c1:b:71ab:f216:4e7e:e51a:c0d1]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 155
+  type: vless
+  server: "[2a06:98c1:a:e6a2:8884:44ae:1dc0:ec03]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 156
+  type: vless
+  server: "[2a06:98c1:a:6019:1524:f672:20e0:8d77]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 157
+  type: vless
+  server: "[2a06:98c1:9:e0da:a940:4e5a:b724:93b4]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 158
+  type: vless
+  server: "[2a06:98c1:9:77f8:b6b0:9488:a28b:77c6]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 159
+  type: vless
+  server: "[2a06:98c1:8:f2fd:ab13:6d41:64f1:528e]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 160
+  type: vless
+  server: "[2a06:98c1:8:78b6:571b:40b2:5108:4d64]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 161
+  type: vless
+  server: "[2a06:98c1:7:e638:5a26:7a9:7e6e:32fb]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 162
+  type: vless
+  server: "[2a06:98c1:7:7aaf:5bfd:f5a9:ba1:87c1]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 163
+  type: vless
+  server: "[2a06:98c1:6:ffba:2d1a:ad4d:a61b:93cd]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 164
+  type: vless
+  server: "[2a06:98c1:6:7535:b247:2781:65a0:a728]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 165
+  type: vless
+  server: "[2a06:98c1:5:e3d4:70cc:1ed0:bd6a:2ed5]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 166
+  type: vless
+  server: "[2a06:98c1:5:71ef:5d9a:5dc1:6e8d:9333]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 167
+  type: vless
+  server: "[2a06:98c1:4:fc8d:f2e:dd48:3c2e:8ed4]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 168
+  type: vless
+  server: "[2a06:98c1:4:76ab:2ea9:86c2:5f47:b801]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 169
+  type: vless
+  server: "[2a06:98c1:3:f97c:1eb9:393d:81c2:80fe]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 170
+  type: vless
+  server: "[2a06:98c1:3:6a22:e30d:5418:db4b:291e]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 171
+  type: vless
+  server: "[2a06:98c1:2:fa05:aab0:ecf6:1916:edc4]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 172
+  type: vless
+  server: "[2a06:98c1:2:7d32:a5fb:7a27:5cce:1cf0]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 173
+  type: vless
+  server: "[2a06:98c1:1:ea20:61f7:836c:4aa4:c7be]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 174
+  type: vless
+  server: "[2a06:98c1:1:6d23:958a:7f82:bf8b:db3d]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 175
+  type: vless
+  server: "[2606:54c0:4584:18::21b]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 176
+  type: vless
+  server: "[2606:54c0:4584:18::21c]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 177
+  type: vless
+  server: "[2606:54c0:4584:18::21d]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 178
+  type: vless
+  server: "[2606:54c0:4584:18::21e]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 179
+  type: vless
+  server: "[2606:54c0:4584:18::21f]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 180
+  type: vless
+  server: "[2606:54c0:4584:18::220]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 181
+  type: vless
+  server: "[2606:54c0:4584:18::221]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 182
+  type: vless
+  server: "[2606:54c0:4584:18::222]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 183
+  type: vless
+  server: "[2606:54c0:4584:18::223]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 184
+  type: vless
+  server: "[2606:54c0:4584:18::224]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 185
+  type: vless
+  server: "[2606:54c0:4584:18::225]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 186
+  type: vless
+  server: "[2606:54c0:4584:18::226]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 187
+  type: vless
+  server: "[2606:54c0:4584:18::227]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 188
+  type: vless
+  server: "[2606:54c0:4584:18::228]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 189
+  type: vless
+  server: "[2606:54c0:4584:18::229]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 190
+  type: vless
+  server: "[2606:54c0:4584:18::22a]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 191
+  type: vless
+  server: "[2606:54c0:4584:18::22b]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 192
+  type: vless
+  server: "[2606:54c0:4584:18::22c]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 193
+  type: vless
+  server: "[2606:54c0:4584:18::22d]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 194
+  type: vless
+  server: "[2606:54c0:4584:18::22e]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 195
+  type: vless
+  server: "[2606:54c0:4584:18::22f]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 196
+  type: vless
+  server: "[2606:54c0:4584:18::230]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 197
+  type: vless
+  server: "[2606:54c0:4584:18::231]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 198
+  type: vless
+  server: "[2606:54c0:4584:18::232]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 199
+  type: vless
+  server: "[2606:54c0:4584:18::233]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 200
+  type: vless
+  server: "[2606:54c0:4584:18::234]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 201
+  type: vless
+  server: "[2606:54c0:4584:18::235]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 202
+  type: vless
+  server: "[2606:54c0:4584:18::236]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 203
+  type: vless
+  server: "[2606:54c0:4584:18::237]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 204
+  type: vless
+  server: "[2606:54c0:4584:18::238]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 205
+  type: vless
+  server: "[2606:54c0:4584:18::239]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 206
+  type: vless
+  server: "[2606:54c0:4584:18::23a]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 207
+  type: vless
+  server: "[2606:54c0:4584:18::23b]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 208
+  type: vless
+  server: "[2606:54c0:4584:18::23c]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 209
+  type: vless
+  server: "[2606:54c0:4584:18::23d]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 210
+  type: vless
+  server: "[2606:54c0:4584:18::23e]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 211
+  type: vless
+  server: "[2606:54c0:4584:18::23f]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 212
+  type: vless
+  server: "[2606:54c0:4584:18::240]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 213
+  type: vless
+  server: "[2606:54c0:4584:18::241]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 214
+  type: vless
+  server: "[2606:54c0:4584:18::242]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 215
+  type: vless
+  server: "[2606:54c0:4584:18::243]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 216
+  type: vless
+  server: "[2606:54c0:4584:18::244]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 217
+  type: vless
+  server: "[2606:54c0:4584:18::245]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 218
+  type: vless
+  server: "[2606:54c0:4584:18::246]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 219
+  type: vless
+  server: "[2606:54c0:4584:18::247]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
+
+- name: 🇺🇸 US优选IP 220
+  type: vless
+  server: "[2606:54c0:4584:18::248]"
+  port: 8443
+  uuid: acf802bc-df6d-4cd4-b422-881fba6a677c
+  udp: false
+  tls: true
+  network: ws
+  servername: cfjdyd.cfjdyg.qzz.io
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: cfjdyd.cfjdyg.qzz.io
 
 
 
